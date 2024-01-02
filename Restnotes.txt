@@ -1,0 +1,77 @@
+
+
+
+backend
+-----------------
+npm init-creates package.json
+npm init -y
+db.json-
+
+json server
+----------------------------
+
+json server is an npm module,creating  a mock rest api effortlessly
+data is transferred in json between client and server
+
+installation
+----------------
+npm install -g json-sever
+
+
+
+npm i json-server
+
+
+
+
+creating a database file
+---------------------------------
+db.json-contains the json data to be hosted
+
+
+
+Running a server on an alternate port (otherthan 3000)
+------------------------------------------------------------
+json-server db.json --port PORT_NUMBER
+
+
+
+IF THE Port IS 3000
+---------------------
+json-server db.json
+
+
+
+
+
+Rout
+------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Requests
+----------------
+GET
+
+
+
+
+------------------
+
+
+
+
